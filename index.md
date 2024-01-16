@@ -4,15 +4,6 @@
 
 [Prerequisites](#Prerequisites) (see below)
 
-<table align="left">
-  <td>
-    <a href="https://colab.research.google.com/github/ageron/handson-ml3/blob/main/index.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-  </td>
-  <td>
-    <a target="_blank" href="https://homl.info/kaggle3/"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a>
-  </td>
-</table>
-
 ## Notebooks
 1. [The Machine Learning landscape](01_the_machine_learning_landscape.ipynb)
 2. [End-to-end Machine Learning project](02_end_to_end_machine_learning_project.ipynb)
